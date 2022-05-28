@@ -35,7 +35,7 @@ echo "Installing yay..."
 yay
 echo "yay successfully installed!"
 echo "Installing packages...This may take a while..."
-sudo pacman --noconfirm --needed -S vim man-db ttf-dejavu vifm neofetch htop xorg libx11 libxft libxinerama xorg-xinit openssh 
+sudo pacman --noconfirm --needed -S feh vim man-db ttf-dejavu vifm neofetch htop xorg libx11 libxft libxinerama xorg-xinit openssh 
 echo "Packages successfully installed..."
 echo "Cloning and compiling git repositories...this is definitely going to take a while...#ripbozo"
 repos
